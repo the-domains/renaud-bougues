@@ -1,6 +1,6 @@
 name: Renaud Bougues
 favicon: null
-layout_spectrum: 0.8046323030721396
+layout_spectrum: 0.34293
 typography_spectrum: 0.60065
 title: About
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9877269223798066
-  lightness: 0.6462700848933309
-  saturation: 0.25827371375635266
-  rhythmicContrast: 0.7906556006055325
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
